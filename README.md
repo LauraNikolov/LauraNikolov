@@ -1,6 +1,5 @@
 
 # Laura Nicoloff — Web and System Programming
-## Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
