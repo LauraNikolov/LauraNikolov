@@ -1,5 +1,5 @@
 
-# Laura Nicoloff — C / C++ Developer 
+# Laura Nicoloff — Web and System Programming
 
 ---
 
