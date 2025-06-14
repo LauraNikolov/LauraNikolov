@@ -39,8 +39,5 @@
 - **Transcendence** (ongoing) — Fullstack app 
 
 
-## Technologies
-
-
 
 ---
