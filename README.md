@@ -13,6 +13,14 @@
 ## 💻 Technical Skills
 
 - **Languages:** C, C++, Bash, Python, JavaScript 
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
 - **Tools & Technologies:**  
   - Docker & docker-compose: container creation and management  
   - Nginx: basic configuration and proxy setup  
@@ -27,4 +35,10 @@
 - **Webserv** — Simple HTTP server, request and response management  
 - **Inception** — Full Docker project: Wordpress + MariaDB + Nginx + SSL  
 - **Transcendence** (ongoing) — Fullstack app 
+
+
+## Technologies
+
+
+
 ---
