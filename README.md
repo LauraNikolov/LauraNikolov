@@ -35,7 +35,12 @@
 - **Minishell** — Minimal Unix shell, command and redirection handling  
 - **Webserv** — Simple HTTP server, request and response management  
 - **Inception** — Full Docker project: Wordpress + MariaDB + Nginx + SSL  
-- **Transcendence** (ongoing) — Fullstack app 
+- **Transcendence** (ongoing) — Frontend: JavaScript, TypeScript, React (SPA)
+	•	Backend: Node.js, Fastify, Socket.IO for real-time communication
+	•	Game Logic: Server-authoritative architecture with game state management
+	•	Networking: Client-side prediction, interpolation, and extrapolation techniques
+	•	Session Management: Fastify-session and secure authentication
+	•	Physics: Babylon.js engine with mesh synchronization and impostors
 
 
 ## Contact
