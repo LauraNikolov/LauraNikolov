@@ -13,7 +13,7 @@
 
 ## 🎓 Education
 
-- Student at **École 42** — Core curriculum almost completed  
+- Student at **École 42** — Core curriculum completed  
 - Seeking an **internship / apprenticeship** starting September 2025  
 
 ---
