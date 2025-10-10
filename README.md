@@ -35,7 +35,7 @@
 - **Minishell** — Minimal Unix shell, command and redirection handling  
 - **Webserv** — Simple HTTP server, request and response management  
 - **Inception** — Full Docker project: Wordpress + MariaDB + Nginx + SSL  
-- **Transcendence** (ongoing) — Fullstack app in Node.js/Fastify
+- **Transcendence** — Fullstack app in Node.js/Fastify
 
 ## Contact
 
